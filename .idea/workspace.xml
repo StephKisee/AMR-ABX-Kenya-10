@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7825402-108f-42bd-85f8-9a812e0248a6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/AMR-ABX-Kenya-10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ABX24_Use_Assessment_in_Counties_-_all_versions_-_labels_-_2023-10-25-07-36-51.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/AMR24_Dx_Capacity_assessment_in_counties_-_all_versions_-_labels_-_2023-10-24-09-26-34.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spatial-data/kenya.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spatial-data/kenya_counties.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spatial-data/kenya_sub_counties.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spatial-data/kenya_wards.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/test_cleaning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/test_graphing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/test_transforming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/cleaning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/graphing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/transforming.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+        <option value="Python Unit Test" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2bJO8udpAAcxJc4eLVrNeGT5xRT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/kisee/DataspellProjects/AMR-ABX-Kenya-10/data/spatial-data",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kisee\DataspellProjects\AMR-ABX-Kenya-10\data\spatial-data" />
+      <recent name="C:\Users\kisee\DataspellProjects\AMR-ABX-Kenya-10\src\tests" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kisee\DataspellProjects\AMR-ABX-Kenya-10\src" />
+      <recent name="C:\Users\kisee\DataspellProjects\AMR-ABX-Kenya-10\src\utils" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5de4e687c57e-c6172f9078bd-com.jetbrains.pycharm.ds.sharedIndexes.bundled-DS-233.13135.105" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
